@@ -14,7 +14,7 @@ I'm **Matthew Anur**, a self-taught red teamer and malware developer with a stro
 
 ### 🛠️ Current Projects
 - **Serum** — Shellcode injection generator, based on Windows API and ntdll.
-- **SerumV2** — A stealth loader generator featuring runtime syscall gating, VEH-based execution, dynamic SSN retrieval and encrypted COFF/shellcode injection.
+- **SerumV2** — A stealth loader generator featuring runtime syscall gating, VEH-based execution, dynamic SSN retrieval and encrypted COFF/shellcode injection. (The tool is still under development)
   
 ### 🧠 Technical Focus
 - Advanced Malware Development & Obfuscation Techniques
