@@ -3,6 +3,7 @@
 I'm **Matthew Anur**, a self-taught red teamer and malware developer with a strong focus on stealth, evasion, and offensive tooling. I specialize in crafting low-level implants, custom loaders, and novel execution techniques that bypass modern defenses.
 
 ### 👨‍💻 About Me
+- I am 18 years old
 - Based in **Sliven, Bulgaria**
 - Currently a **student**, **unemployed**, and actively **seeking internship opportunities**
 - Strong in **C/C++**, low-level Windows internals, and building offensive tooling
